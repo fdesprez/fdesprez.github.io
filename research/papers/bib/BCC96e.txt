@@ -1,0 +1,10 @@
+@TechReport{BCC+96e,
+  author = 	 "Brandes, T. and Chaumette, S. and Counilh, M.-C. and Darte, A. and Mignot, J.C. and Desprez, F. and Roman, J.",
+  title = 	 "{HPFIT: A Set of Integrated Tools for the Parallelization of Applications Using High Performance Fortran}",
+  institution =  "INRIA",
+  year = 	 "1996",
+  month =        DEC,
+  number =	 "RR-3059",
+  note =         {also LIP ENS Lyon Tech. Rep. 96-28},
+        keyword            = {HPF, environment}
+}

@@ -1,0 +1,8 @@
+@TechReport{CDL00,
+  author = 	 "Chaussumier, F. and Desprez, F. and Prylli, L.",
+  title = 	 "{Asynchronous Communications in MPI - the BIP/Myrinet Approach}",
+  institution =  "INRIA",
+  year = 	 2000,
+  number =	 "RR-3960",
+        keyword            = {communication overlap}
+}

@@ -1,0 +1,12 @@
+@TECHREPORT{DDT97,
+        AUTHOR             = {Desprez, F. and Domas, S. and Tourancheau, B.},
+        INSTITUTION        = {INRIA},
+        NUMBER             = {RR-3094},
+        KEY                = {DDT97},
+        TITLE              = "{Optimization of an LU Factorization Routine Using Communication/Computation Overlap}",
+	MONTH              = {February},
+        YEAR               = {1997},
+	NOTE               = {also LIP - ENS Lyon Tech. Report 96-17},
+        keyword            = {parallel linear algebra, communication overlap}
+}
+

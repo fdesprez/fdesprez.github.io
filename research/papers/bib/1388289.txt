@@ -1,0 +1,13 @@
+@article{1388289,
+ author = {Amar, A. and Bolze, R. and Caniou, Y. and Caron, E. and Chis, A. and Desprez, F. and Depardon, B. and Gay, J.-S. and Le Mahec, G. and Loureiro, D.},
+ title = "{Tunable Scheduling in a GridRPC Framework}",
+ journal = {Concurrency and Computation: Practice \& Experience},
+ volume = {20},
+ number = {9},
+ year = {2008},
+ issn = {1532-0626},
+ pages = {1051--1069},
+ doi = {http://dx.doi.org/10.1002/cpe.v20:9},
+ publisher = {John Wiley and Sons Ltd.},
+ address = {Chichester, UK, UK},
+ }

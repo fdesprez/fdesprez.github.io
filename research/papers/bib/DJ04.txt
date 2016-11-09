@@ -1,0 +1,8 @@
+@INPROCEEDINGS{DJ04,
+  author = {F. Desprez and E. Jeannot},
+  title = {{Improving the GridRPC Model with Data Persistence and Redistribution}},
+  booktitle = {3rd International Symposium on Parallel and Distributed Computing (ISPDC)},
+  year = {2004},
+  address = {Cork, Ireland},
+  month = JUL,
+}

@@ -1,0 +1,12 @@
+@inproceedings{DIETCoregrid,
+	Address = {Dresden, Germany},
+	Author = {Amar, Abelkader and Bolze, Rapha{\"e}l and Bouteiller, Aur{\'e}lien and Chouhan, Pushpinder Kaur and Chis, Andr{\'e}ea and Caniou, Yves and Caron, Eddy and Dail, Holly and Depardon, Benjamin and Desprez, Fr{\'e}d{\'e}ric and Gay, Jean-S{\'e}bastien and Le Mahec, Ga{\"e}l and Su, Alan},
+	Booktitle = {CoreGRID Workshop on Grid Middleware (in conjunction with EuroPar2006)},
+	Editor = {Lehner et al. (Eds.)},
+	Month = {August 28-29},
+	Number = {4375},
+	Pages = {150-170},
+	Publisher = {Springer},
+	Series = {LNCS},
+	Title = {DIET: New Developments and Recent Results},
+	Year = {2006}}

@@ -1,0 +1,8 @@
+@TECHREPORT{DFL93,
+        AUTHOR             = {Desprez, F. and Fleury, E. and Loi, M.},
+        INSTITUTION        = {LIP - ENS Lyon},
+        NUMBER             = {93-01},
+        TITLE              = "{T9000 et C104, la nouvelle génération de transputers}",
+        YEAR               = {1993},
+        keyword            = {architecture}
+}

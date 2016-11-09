@@ -1,0 +1,9 @@
+@inbook{CD94a,
+	Author = {Cosnard, M. and Desprez, F.},
+	Chapter = {Quelques architectures de nouvelles machines},
+	Key = {CD94a},
+	Keyword = {architecture},
+	Month = APR,
+	Publisher = {Hermes},
+	Title = {Ecole d'Automne CAPA - Port d'Albret},
+	Year = 1994}

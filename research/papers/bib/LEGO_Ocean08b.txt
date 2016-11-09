@@ -1,0 +1,10 @@
+@inproceedings{LEGO_Ocean08b,
+	Address = {Sydney. Australia. },
+	Author = {Caniou, Yves and Caron, Eddy and Charrier, Ghislain and Desprez, Frédéric and Maisonnave, Eric and Pichon, Vincent},
+	Booktitle = {APDCT-08 Symposium. International Symposium on Advanced in Parallel and Distributed Computing Techniques.},
+	Month = {December 10-12},
+	Organization = {In conjunction with ISPA'2008.},
+	Pages = {675-680},
+	Publisher = {IEEE Computer Society},
+	Title = {Ocean-Atmosphere Application Scheduling within DIET},
+	Year = {2008}}

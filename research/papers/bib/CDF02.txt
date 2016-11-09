@@ -1,0 +1,10 @@
+@inbook{CDF+02,
+	Author = {Caron, Eddy and Desprez, Fr{\'e}d{\'e}ric and  Fleury, Eric and Lombard, Fr{\'e}d{\'e}ric and         Nicod, Jean-Marc and Quinson, Martin and         Suter, Fr{\'e}d{\'e}ric},
+	Chapter = {Une approche hi{\'e}rarchique des serveurs de calculs},
+	Date-Modified = {2005-04-08 15:55:58 +0200},
+	Editor = {Fran{\c c}oise Baude, INRIA--Univ. de Nice--I3S},
+	Keywords = {Metacomputing, DIET},
+	Note = {ISBN 2-7462-0472-X},
+	Publisher = {Herm{\`e}s Science Paris},
+	Title = {Calcul r{\'e}parti {\`a} grande {\'e}chelle},
+	Year = 2002}

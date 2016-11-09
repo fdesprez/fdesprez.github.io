@@ -1,0 +1,9 @@
+@article{DDP+98a,
+	Author = {Desprez, F. and Dongarra, J. and Petitet, A. and Randriamaro, C. and Robert, Y.},
+	Journal = {IEEE Transaction on Parallel and Distributed Systems},
+	Keyword = {redistribution},
+	Number = {2},
+	Pages = {192-205},
+	Title = {{Scheduling Block-Cyclic Array Redistribution}},
+	Volume = {9},
+	Year = {1998}}

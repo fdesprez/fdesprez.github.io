@@ -1,0 +1,12 @@
+@TechReport{DQS01a,
+  author = 	 {Desprez, F. and Quinson, M. and Suter, F.},
+  title = 	 "{Dynamic Performance Forecasting for Network-Enabled Servers in a Heterogeneous Environment}",
+  institution =  {LIP ENS Lyon},
+  year = 	 2001,
+ month		= nov,
+   number =	 {RR2001-40},
+  note		= {Also available as INRIA Research Report RR-4320},
+  postscript	= "ftp://ftp.ens-lyon.fr/pub/LIP/Rapports/RR/RR2001/RR2001-40.ps.Z",
+  type =	 {Research report},
+  keyword            = {performance evaluation, grid computing}
+}

@@ -1,0 +1,10 @@
+@INPROCEEDINGS{CDPV03a,
+  author = {Caron, E. and Desprez, F. and Petit, F. and Villain, V.},
+  title = {{A Hierarchical Resource Reservation Algorithm for Network Enabled Servers}},
+  booktitle = {Proceedings of the 17th International Parallel and Distributed Processing Symposium (IPDPS'03)},
+  year = {2003},
+  address = {Nice - France},
+  month = apr,
+  publisher = {IEEE Computer Society},
+  keywords = {Grid computing, DIET, Scheduling, Resource Reservation},
+}

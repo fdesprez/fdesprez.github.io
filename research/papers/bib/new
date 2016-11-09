@@ -1,0 +1,10 @@
+@TECHREPORT{DT92b,
+        AUTHOR             = {Desprez, F. and Tourancheau, B.},
+        INSTITUTION        = {LIP - ENS Lyon},
+        KEY                = {DT92b},
+        MONTH              = dec,
+        NUMBER             = {92-44},
+        TITLE              = "{LOCCS: Low Overhead Communication and Computation Subroutines}",
+        YEAR               = {1992},
+        keyword            = {macro-pipelining}
+}

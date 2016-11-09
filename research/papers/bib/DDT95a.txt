@@ -1,0 +1,10 @@
+@article{DDT95a,
+	Author = {Desprez, F. and Dongarra, J. and Tourancheau, B.},
+	Journal = {Parallel Processing Letters},
+	Key = {DDT95a},
+	Keyword = {parallel linear algebra, communication overlap},
+	Number = {2},
+	Pages = {157-169},
+	Title = {{Performance Study of LU Factorization with Low Communication Overhead on Multiprocessors}},
+	Volume = {5},
+	Year = {1995}}

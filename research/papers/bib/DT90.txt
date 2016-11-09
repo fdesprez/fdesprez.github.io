@@ -1,0 +1,10 @@
+@ARTICLE{DT90,
+        AUTHOR             = {Desprez, F. and Tourancheau, B.},
+        JOURNAL            = {La Lettre du Transputer et des Calculateurs Distribués},
+        MONTH              = sep,
+        PAGES              = {65-72},
+        TITLE              = "{Modélisation des Performances des Communications sur le Tnode avec le Logical System Transputer Toolset}",
+        VOLUME             = {7},
+        YEAR               = {1990},
+        keyword            = {architecture, communication, performance evaluation}
+}

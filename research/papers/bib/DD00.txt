@@ -1,0 +1,12 @@
+@INPROCEEDINGS{DD00,
+  author = {Desprez, F. and Domas, S.},
+  title = {{Efficient Pipelining of Level 3 BLAS Routines}},
+  booktitle = {4th international meeting VECPAR 2000},
+  year = {2000},
+  volume = {3},
+  pages = {675-688},
+  address = {Porto},
+  month = JUN,
+  key = {DD00},
+  keyword = {macro-pipelining, parallel linear algebra},
+}

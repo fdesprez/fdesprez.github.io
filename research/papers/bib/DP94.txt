@@ -1,0 +1,10 @@
+@INPROCEEDINGS{DP94,
+  author = {Desprez, F. and Pourzandi, M.},
+  title = {{A Comparison of Three Matrix Product Algorithms on the Intel Paragon and Archipel Volvox Machines}},
+  booktitle = {Advances in Numerical Methods and Applications NM\&A - O($h^3$)'94},
+  year = {1994},
+  editor = {Dimov, I.T. and Sendov, Bl. and Vassilevski, P.S.},
+  pages = {234-244},
+  publisher = {World Scientific},
+  keyword = {communication overlap, parallel linear algebra},
+}

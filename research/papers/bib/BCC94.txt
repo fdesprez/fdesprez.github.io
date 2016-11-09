@@ -1,0 +1,12 @@
+@INPROCEEDINGS{BCC+94,
+        AUTHOR             = {Brunie, L. and Chaumette, S. and Cosnard, M. and Desprez, F. and Lef\`evre, L. and Loi, M. and Pourzandi, M. and Tourancheau, B. and Vigouroux, X.},
+        TITLE              = "{The LHPC Programming Environment}",
+        PAGES              = {130-141},
+        BOOKTITLE          = {Environments and Tools For Parallel Scientific Computing - Knoxville},
+        PUBLISHER          = {SIAM},
+        MONTH              = {June},
+        EDITOR             = {J. Dongarra and B. Tourancheau},
+        INSTITUTION        = {CNRS-NSF Workshop},
+        YEAR               = {1994},
+        keyword            = {environment}
+}

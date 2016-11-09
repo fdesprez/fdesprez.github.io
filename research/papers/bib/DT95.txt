@@ -1,0 +1,8 @@
+@article{DT95,
+	Author = {Desprez, F. and Tourancheau, B.},
+	Journal = {Parallel Computing},
+	Keyword = {parallel linear algebra, reconfiguration},
+	Pages = {353-372},
+	Title = {{Basic Routines for the Rank-2k Update: 2D Torus vs Reconfigurable Network}},
+	Volume = {21},
+	Year = {1995}}

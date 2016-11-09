@@ -1,0 +1,11 @@
+@INPROCEEDINGS{BDT93,
+  author = {Bonello, C. and Desprez, F. and Tourancheau, B.},
+  title = {{Parallel BLAS and BLACS for Numerical Algorithms on a Reconfigurable Network}},
+  booktitle = {NATUG6 - Transputer Research and Applications 6},
+  year = {1993},
+  editor = {S. Atkins and A.S. Wagner},
+  pages = {21-38},
+  publisher = {IOS Press},
+  key = {BDT93a},
+  keyword = {numerical libraries, reconfiguration},
+}

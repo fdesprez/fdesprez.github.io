@@ -1,0 +1,13 @@
+@INPROCEEDINGS{BD92,
+        AUTHOR             = {Bonello, C. and Desprez, F.},
+        BOOKTITLE          = {Environments and Tools For Parallel Scientific Computing - St Hilaire du Touvet},
+        EDITOR             = {J. Dongarra and B. Tourancheau},
+        INSTITUTION        = {CNRS-NSF Workshop},
+        KEY                = {BD92},
+        MONTH              = {September},
+        PAGES              = {41-52},
+        PUBLISHER          = {Elsevier Science Publishers B.V.},
+        TITLE              = "{Implementation of Linear Algebra and Communication Libraries on the TNode Reconfigurable Machine}",
+        YEAR               = {1992},
+        keyword            = {parallel linear algebra, communication, reconfiguration}
+}

@@ -1,0 +1,9 @@
+@TECHREPORT{DDR+97a,
+        AUTHOR             = {Desprez, F. and Dongarra, J. and Rastello, F. and Robert, Y.},
+        INSTITUTION        = {INRIA},
+        NUMBER             = {32-72},
+        TITLE              = "{Determining the Idle Time of a Tiling: New Results}",
+        YEAR               = {1997},
+        NOTE               = {also LIP - ENS Lyon Tech. Report 97-35 and UT CS Dept. Tech. Rep. UT-CS-360},
+        keyword            = {tiling}
+}

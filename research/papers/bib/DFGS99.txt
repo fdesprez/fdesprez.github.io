@@ -1,0 +1,10 @@
+@INPROCEEDINGS{DFGS+99,
+  author = {Desprez, F. and Fleury, E. and Gomez, C. and Steer, S. and Ubéda, S.},
+  title = {{Bringing Metacomputing to Scilab}},
+  booktitle = {Computer Aided Control System Design (CACSD 99)},
+  year = {1999},
+  address = {Hawaï, USA},
+  month = {August},
+  organization = {IEEE},
+  keyword = {Scilab, grid computing, parallel linear algebra, Network Enabled Servers},
+}

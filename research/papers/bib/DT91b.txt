@@ -1,0 +1,9 @@
+@INPROCEEDINGS{DT91b,
+        AUTHOR             = {Desprez, F. and Tourancheau, B.},
+        BOOKTITLE          = {European Parallel Computing Action - Bonn Workshop},
+        KEY                = {DT91b},
+        PUBLISHER          = {ESPRIT-PCA Workshop},
+        TITLE              = "{Reconfiguration versus Fixed Topology}",
+        YEAR               = {1991},
+        keyword            = {numerical libraries, parallel linear algebra, reconfiguration}
+}

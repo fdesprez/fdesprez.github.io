@@ -1,0 +1,13 @@
+@INPROCEEDINGS{CDS04,
+  author = {Casanova, Henri and Desprez, Frédéric and Suter, Frédéric},
+  title = {{From Heterogeneous Task Scheduling to Heterogeneous Mixed Parallel Scheduling}},
+  booktitle = {Proceedings of the 10th International Euro-Par Conference (Euro-Par'04)},
+  year = {2004},
+  editor = {Danelutto, Marco and Laforenza, Domenico and Vanneschi, Marco},
+  volume = {3149},
+  series = LNCS,
+  pages = {230--237},
+  address = {Pisa, Italy},
+  month = {August/September},
+  publisher = {Springer},
+}

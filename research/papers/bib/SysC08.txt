@@ -1,0 +1,9 @@
+@inproceedings{SysC08,
+	Address = {Sydney. Australia. },
+	Author = {Combes, Philippe and Caron, Eddy and Desprez, Frédéric and Chopard, Bastien and Zory, Julien},
+	Booktitle = {ISPA 2008. International Symposium on Parallel and Distributed Processing with Applications},
+	Month = {December 10-12},
+	Pages = {180-187},
+	Publisher = {IEEE Computer Society},
+	Title = {Relaxing Synchronization in a Parallel SystemC Kernel},
+	Year = {2008}}

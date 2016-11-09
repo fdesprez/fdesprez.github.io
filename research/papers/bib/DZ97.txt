@@ -1,0 +1,11 @@
+@InProceedings{DZ97,
+  author = 	 "Desprez, F. and Zory, J.",
+  title = 	 "Performance des macro-pipelines dans les programmes data-parallèles",
+  editor =	 "Schiper, A. and Trystram, D.",
+  pages =	 "17-20",
+  booktitle =	 "Actes des 9e Rencontres Francophones du Parallélisme (RenPar'9)",
+  year =	 "1997",
+  address =	 "Lausanne, Switzerland",
+  month =	 MAY,
+  keyword =      {macro-pipelining}
+}

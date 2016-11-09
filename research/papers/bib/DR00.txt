@@ -1,0 +1,12 @@
+@InProceedings{DR00,
+  author = 	 "Desprez, F. and Randriamaro, C.",
+  title = 	 "{Redistribution entre appels de routines ScaLAPACK}",
+  pages =	 "113-118",
+  booktitle =	 "Actes des 12e Rencontres Francophones du Parallélisme (RenPar'00)",
+  year =	 "2000",
+  address =	 "Besançon, France",
+  month =	 JUN,
+  keyword =      {automatic distribution},
+  pdf =          {http://www.ens-lyon.fr/~desprez/research/publis/renpar12.pdf}
+}
+

@@ -1,0 +1,12 @@
+@INPROCEEDINGS{CCD+94,
+  author = {Calvin, C. and Colombet, L. and Desprez, F. and Jargot, B. and Michallon, P. and Tourancheau, B. and Trystram, D.},
+  title = {{Towards Mixed Computation - Communication in Scientific Libraries}},
+  booktitle = {CONPAR'94 - VAPP VI},
+  year = {1994},
+  volume = {854},
+  series = {Lecture Notes in Computer Science},
+  pages = {605-615},
+  address = {Lintz},
+  publisher = {Springer Verlag},
+  keyword = {communication overlap, macro-pipelining, parallel linear algebra},
+}

@@ -1,0 +1,8 @@
+@article{CDQS04,
+	Author = {E. Caron and F. Desprez and M. Quinson and F. Suter},
+	Journal = {The International Journal on High Performance Computing and Applications},
+	Number = {3},
+	Pages = {373-390},
+	Title = {{Performance Evaluation of Linear Algebra Routines for Network Enabled Servers}},
+	Volume = {18},
+	Year = {2004}}

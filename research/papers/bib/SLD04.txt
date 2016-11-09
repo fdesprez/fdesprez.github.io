@@ -1,0 +1,8 @@
+@INPROCEEDINGS{SLD+04,
+  author = {K. Seymour and C. Lee and F. Desprez and H. Nakada and Y. Tanaka},
+  title = {{The End-User and Middleware APIs for GridRPC}},
+  booktitle = {Workshop on Grid Application Programming Interfaces, In conjunction with GGF12},
+  year = {2004},
+  address = {Brussels, Belgium},
+  month = SEP,
+}

@@ -1,0 +1,9 @@
+@Article{DU96,
+  author = 	 "Desprez, F. and Ubéda, S.",
+  title = 	 "{Le parallélisme dans l'industrie: rève ou réalité?}",
+  journal =	 "Technique et Science Informatique",
+  year =	 "1996",
+  volume =	 "15",
+  number =	 "5",
+  pages =	 "643-647"
+}

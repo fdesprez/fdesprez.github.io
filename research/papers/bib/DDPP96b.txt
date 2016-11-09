@@ -1,0 +1,8 @@
+@TechReport{DDPP96b,
+  author = 	 "Demian, V. and Desprez, F. and Paugam-Moisy, H. and Pourzandi, M.",
+  title = 	 "{Parallel Implementation of RBF Neural Networks}",
+  institution =  "LIP ENS Lyon",
+  year = 	 "1996",
+  number =	 "96-11",
+        keyword            = {application, communication overlap}
+}

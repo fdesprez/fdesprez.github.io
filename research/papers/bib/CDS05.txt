@@ -1,0 +1,8 @@
+@InProceedings{CDS05,
+author = {Caron, E. and Desprez, F. and Suter, F.},
+title = {{Out-of-Core and Pipeline Techniques for Wavefront Algorithms}},
+booktitle = {Proceedings of the 19th International Parallel and Distributed Processing Symposium (IPDPS'05)},
+year = 2005,
+address = {Denver, CO},
+month = Apr,
+KEYWORDS={Out-of-Core} }

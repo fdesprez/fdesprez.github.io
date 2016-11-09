@@ -1,0 +1,13 @@
+@INPROCEEDINGS{CDL99,
+  author = {Chaussumier, F. and Desprez, F. and Loi, M.},
+  title = {{Efficient Load-Balancing and Communication Overlap in Parallel Shear-Warp Algorithm on a Cluster of PCs}},
+  booktitle = {Proceedings of EuroPAR'99},
+  year = {1999},
+  editor = {Amestoy, P. and Berger, P. and Daydé, M. and Duff, I. and Frayssé, V. and Giraud, L. and Ruiz, D.},
+  number = {1685},
+  series = {Lecture Notes in Computer Science},
+  pages = {570-577},
+  address = {Toulouse},
+  publisher = {Springer Verlag},
+  keyword = {macro-pipelining, communication overlap, load-balancing, volume rendering},
+}

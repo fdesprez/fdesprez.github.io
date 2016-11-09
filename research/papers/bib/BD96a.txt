@@ -1,0 +1,12 @@
+@INPROCEEDINGS{BD96a,
+  author = {Brandes, T. and Desprez, F.},
+  title = {{Implementing Pipelined Computation and Communication in an HPF Compiler}},
+  booktitle = {Europar'96 Parallel Processing},
+  year = {1996},
+  volume = {1123},
+  series = {Lecture Notes in Computer Science},
+  pages = {459-462},
+  month = AUG,
+  publisher = {Springer Verlag},
+  keyword = {macro-pipelining, HPF, communication overlap},
+}

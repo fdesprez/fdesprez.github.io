@@ -1,0 +1,12 @@
+@INPROCEEDINGS{DDD+98b,
+  author = {Desprez, F. and Domas, S. and Dongarra, J. and Petitet, A. and Randriamaro, C. and Robert, Y.},
+  title = {{More on Scheduling Block-Cyclic Array Redistribution}},
+  booktitle = {Proc. of 4th Workshop on Languages, Compilers, and Run-time Systems for Scalable Computers (LCR98)},
+  year = {1998},
+  volume = {1511},
+  series = {Lecture Notes in Computer Science},
+  pages = {275--287},
+  address = {Pittsburgh, PA},
+  publisher = {Springer-Verlag},
+  keyword = {redistribution, parallel linear algebra},
+}

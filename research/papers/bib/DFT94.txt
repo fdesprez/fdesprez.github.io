@@ -1,0 +1,12 @@
+@INPROCEEDINGS{DFT94,
+  author = {Desprez, F. and Ferreira, A. and Tourancheau, B.},
+  title = {{Efficient Communication Operations on Passive Optical Star Networks}},
+  booktitle = {Massively Parallel Processing Using Optical Interconnections},
+  year = {1994},
+  editor = {N. J. Davis},
+  pages = {52-58},
+  address = {Cancun, Mexico},
+  month = APR,
+  publisher = {IEEE Computer Society Press},
+  keyword = {communication, reconfiguration},
+}

@@ -1,0 +1,10 @@
+@INPROCEEDINGS{DDP+97b,
+  author = {Desprez, F. and Dongarra, J. and Petitet, A. and Randriamaro, C. and Robert, Y.},
+  title = {{Block-cyclic Array Redistribution on Networks of Workstations}},
+  booktitle = {Recent Advances in Parallel Virtual Machine and Message Passing Interface},
+  year = {1997},
+  editor = {Bubak, M. and Dongarra, J. and Wasniewski, J.},
+  series = {LNCS 1332},
+  pages = {343-350},
+  publisher = {Springer Verlag},
+}

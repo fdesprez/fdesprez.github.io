@@ -1,0 +1,13 @@
+@INPROCEEDINGS{DT92a,
+  author = {Desprez, F. and Tourancheau, B.},
+  title = {{A Theoretical Study of Reconfigurability for Basic Communication Algorithms}},
+  booktitle = {CONPAR 92 - VAPP V},
+  year = {1992},
+  editor = {Bougé, L. and Cosnard, M. and Robert, Y. and Trystram, D.},
+  volume = {634},
+  series = {Lecture Notes in Computer Science},
+  pages = {817-818},
+  publisher = {Springer Verlag},
+  key = {DT92a},
+  keyword = {communication, reconfiguration},
+}

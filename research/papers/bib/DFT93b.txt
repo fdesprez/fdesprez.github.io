@@ -1,0 +1,8 @@
+@TECHREPORT{DFT93b,
+        AUTHOR             = {Desprez, F. and Fraigniaud, P. and Tourancheau, B.},
+        INSTITUTION        = {The University of Tennessee - Knoxville USA},
+        NUMBER             = {CS-93-210},
+        TITLE              = "{Successive Broadcast on Hypercube}",
+        YEAR               = {1993},
+        keyword            = {communication}
+}

@@ -1,0 +1,11 @@
+@TechReport{CCC+02,
+     author = {Caron, Eddy and Combes, Philippe and Contassot-Vivier, Sylvain and Desprez, Frédéric and Lombard, Frédéric and Nicod, Jean-Marc and Quinson, Martin and Suter, Frédéric},
+     title = {{A Scalable Approach to Network Enabled Servers}},
+     institution = {Laboratoire de l'Informatique du Parallélisme (LIP)},
+     year = 2002,
+     number = {RR2002-21},
+     month = {May},
+     note =         {Also INRIA Research Report RR-????},
+     postscript = "ftp://ftp.ens-lyon.fr/pub/LIP/Rapports/RR/RR2002/RR2002-21.ps.gz",
+     KEYWORDS ={Metacomputing, DIET}
+}

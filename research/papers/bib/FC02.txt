@@ -1,0 +1,11 @@
+@inproceedings{FC02,
+	Address = {Aussois, France},
+	Author = {Caron, E. and Desprez, F.},
+	Booktitle = {Actes de l'Ecole th{\'e}matique sur la globalisation des ressources informatiques et des donn{\'e}es},
+	Keyword = {Metacomputing GridRPC},
+	Month = dec,
+	Pages = {87-98},
+	Title = {{GridRPC: Approche RPC pour la simulation sur la grille}},
+	Year = {2002}}This file was created with JabRef 1.55.
+Encoding: ISO8859_1
+

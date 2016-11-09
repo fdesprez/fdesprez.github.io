@@ -1,0 +1,10 @@
+@article{CDD+05,
+	Author = {Caron, E. and Desprez, F. and Dayd{\'e}, M. and Hurault, A. and Pantel, M.},
+	Date-Added = {2005-08-02 15:40:28 +0200},
+	Date-Modified = {2005-08-02 15:44:37 +0200},
+	Journal = {Computing Letters (CoLe)},
+	Number = {3},
+	Pages = {1-5},
+	Title = {{On Deploying Scientific Software within the Grid-TLSE Project}},
+	Volume = {1},
+	Year = {2005}}

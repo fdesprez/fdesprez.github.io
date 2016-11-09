@@ -1,0 +1,11 @@
+@INPROCEEDINGS{DFG99,
+  author = {Desprez, F. and Fleury, E. and Grigori, L.},
+  title = {{Scilab//: User Interactive Application and High Performance}},
+  booktitle = {Third World Multiconference on Systemics, Cybernetics and Informatics (SCI'99) and Fifth International Conference on Information Systems Analysis and Synthesis (ISAS'99)},
+  year = {1999},
+  address = {Orlando, USA},
+  month = AUG,
+  organization = {IIIS},
+  keyword = {Scilab, Grid computing, parallel linear algebra, Network Enabled Servers},
+  pdf = {http://www.ens-lyon.fr/~desprez/research/publis/isas99.pdf},
+}

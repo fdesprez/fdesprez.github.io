@@ -1,0 +1,9 @@
+@article{DG95,
+	Author = {Desprez, F. and Garbey, M.},
+	Journal = {Parallel Computing},
+	Key = {DG94},
+	Keyword = {application, communication overlap},
+	Pages = {495-508},
+	Title = {{Numerical Simulation of a Combustion Problem on a Paragon Machine}},
+	Volume = {21},
+	Year = {1995}}

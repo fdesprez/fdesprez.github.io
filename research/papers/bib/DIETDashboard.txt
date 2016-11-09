@@ -1,0 +1,7 @@
+@inproceedings{DIETDashboard,
+	Title = {All-in-one Graphical Tool for Grid Middleware Management},
+	Author = {Caron, Eddy and Desprez, Frédéric and Loureiro, David},
+	Booktitle = {CoreGRID Workshop on Grid Middleware (in conjunction with OGF'23)},
+	Address = {Barcelona, Spain},
+	Month = {June 2-6},
+	Year = {2008}}

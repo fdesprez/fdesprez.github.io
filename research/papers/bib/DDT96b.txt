@@ -1,0 +1,13 @@
+@INPROCEEDINGS{DDT96b,
+  author = {Domas, S. and Desprez, F. and Tourancheau, B.},
+  title = {{Optimization of the ScaLAPACK LU Factorization Routine Using Communication/Computation Overlap}},
+  booktitle = {Europar'96 Parallel Processing},
+  year = {1996},
+  volume = {1124},
+  series = {Lecture Notes in Computer Science},
+  pages = {3-10},
+  month = AUG,
+  publisher = {Springer Verlag},
+  keyword = {numerical libraries, parallel linear algebra, communication overlap},
+}
+

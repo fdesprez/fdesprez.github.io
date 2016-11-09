@@ -1,0 +1,11 @@
+@inbook{DF97,
+	Author = {Desprez, F. and Fraigniaud, P.},
+	Chapter = {Les biblioth{\`e}ques de communications},
+	Keyword = {communication, libraries},
+	Month = APR,
+	Number = 19,
+	Pages = {293-312},
+	Publisher = {OFTA},
+	Series = {Arago},
+	Title = {Ordinateurs et calcul parall{\`e}les},
+	Year = 1997}

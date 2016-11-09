@@ -1,0 +1,11 @@
+@TechReport{DS02,
+     author = {Desprez, Frédéric and Suter, Frédéric},
+     title = {Impact of Mixed-Parallelism on Parallel Implementations of Strassen and Winograd Matrix Multiplication Algorithms},
+     institution = {Laboratoire de l'Informatique du Parallélisme (LIP)},
+     year = 2002,
+     number = {RR2002-24},
+     month = {June},
+     postscript = "ftp://ftp.ens-lyon.fr/pub/LIP/Rapports/RR/RR2002/RR2002-24.ps.gz",
+     note =         {Also INRIA Research Report RR-4482},
+     KEYWORDS = {Mixed Parallelism}
+     }

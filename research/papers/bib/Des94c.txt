@@ -1,0 +1,10 @@
+@inproceedings{Des94c,
+author = {F. Desprez},
+title = {Recouvrements calculs/communications dans les programmes scientifiques},
+pages = {275-279},
+KEY = {Des94c},
+booktitle = {Actes des 6e Rencontres Francophones du Parallélisme (RenPar'6)},
+editor = {Bougé, L.},
+year = {1994},
+keyword = {macro-pipelining}
+}

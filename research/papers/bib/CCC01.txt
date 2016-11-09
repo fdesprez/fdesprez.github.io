@@ -1,0 +1,9 @@
+@article{CCC+01,
+	Author = {Caron, E. and Chaumette, S. and Contassot-Vivier, S. and Desprez, F. and Fleury, E. and Gomez, C. and Goursat, M. and Jeannot, E. and Lazure, D. and Lombard, F. and Nicod, J.M. and Philippe, L. and Quinson, M. and Ramet, P. and Roman, J. and Rubi, F. and Steer, S. and Suter, F. and Utard, G.},
+	Journal = {Parallel Computing},
+	Keyword = {Scilab, grid computing, parallel linear algebra},
+	Number = {27},
+	Pages = {1497-1519},
+	Title = {{Scilab to Scilab//, the OURAGAN Project}},
+	Volume = {11},
+	Year = {2001}}

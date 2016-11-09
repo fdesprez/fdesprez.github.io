@@ -1,0 +1,10 @@
+@InProceedings{DV05,
+  author =       {Desprez, Frédéric and Vernois, Antoine},
+  title =        {{Simultaneous Scheduling of Replication and Computation for 
+Bioinformatic Applications on the Grid}},
+  booktitle =    {CLADE 2005 },
+  year =         2005,
+  address =      {Research Triangle Park, NC},
+  month =        jul,
+  publisher =    {IEEE Computer Society Press}
+}

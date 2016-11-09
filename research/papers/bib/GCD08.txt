@@ -1,0 +1,8 @@
+@inproceedings{GCD08,
+	Author = {Caron, Eddy and Desprez, Frédéric and Le Mahec, Gaël},
+	Title = {Parallelization and Distribution Strategies of Large Bioinformatics Requests over the Grid},
+	Booktitle = {International Conference on Algorithms and Architectures 2008 (ICA3PP 2008)},
+	Address = {Cyprus},
+	Month = {June},
+	Publisher = {Springer Verlag},
+	Year = {2008}}

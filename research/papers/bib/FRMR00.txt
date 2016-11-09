@@ -1,0 +1,8 @@
+@proceedings{FRMR00,
+	Address = {Toronto, Canada},
+	Editor = {Desprez, F. and Fleury, E. and M{\'e}haut, J.-F. and Robert, Y.},
+	Keyword = {grid computing},
+	Month = {AUG},
+	Organization = {IEEE Computer Society},
+	Title = {Workshop on Metacomputing and Applications (MSA'2000)},
+	Year = 2000}

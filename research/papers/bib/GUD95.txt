@@ -1,0 +1,8 @@
+@book{GUD95,
+	Author = {Gengler, M. and Ub{\'e}da, S. and Desprez, F.},
+	Note = {ISBN 2-225-85014-3},
+	Publisher = {Masson},
+	Series = {Manuels informatiques},
+	Title = {{Initiation au Parall{\'e}lisme: Concepts, Architectures et Algorithmes}},
+	Year = 1995
+}

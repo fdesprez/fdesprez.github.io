@@ -1,0 +1,8 @@
+@TechReport{CDL99b,
+  author = 	 "Chaussumier, F. and Desprez, F. and Loi, M.",
+  title = 	 "{Efficient Load-balancing and Communication Overlap in Parallel Shear-Warp Algorithm on a Cluster of PCs}",
+  institution =  "LIP ENS Lyon",
+  year = 	 1999,
+  number =	 "RR1999-28",
+        keyword            = {parallel volume rendering, macro-pipelining, load-balancing}
+}

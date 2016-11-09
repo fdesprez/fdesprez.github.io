@@ -1,0 +1,9 @@
+@ARTICLE{DD06,
+  AUTHOR = {Holly Dail and Frédéric Desprez},
+  TITLE = {Experiences with Hierarchical Request Flow Management
+    for Network-Enabled Server Environments},
+  JOURNAL = {{International Journal of High Performance Computing
+    Applications}},
+  YEAR = {2006},
+  NOTE = {To appear}
+}

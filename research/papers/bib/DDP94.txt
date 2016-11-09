@@ -1,0 +1,10 @@
+@inproceedings{DDP94,
+author = {Desprez, F. and Domas, S. and Pourzandi, M.},
+title = {Comparaison entre 3 routines de calcul de produit de matrice sur Paragon et Volvox IS-860},
+pages = {109-118},
+KEY = {DDP94},
+booktitle = {Actes des 6e Rencontres Francophones du Parallélisme (RenPar'6)},
+editor = {L. Bougé},
+year = {1994},
+keyword = {parallel linear algebra, communication overlap}
+}

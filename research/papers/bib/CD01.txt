@@ -1,0 +1,5 @@
+@article{CD01,
+	Author = {Chaussumier, F. and Desprez, F.},
+	Journal = {Parallel and Distributed Computing Practices},
+	Title = {{Communications Optimizations and Efficient Load-Balancing for a Volume Rendering Algorithm on a Cluster of PCs}},
+	Year = {2001}}

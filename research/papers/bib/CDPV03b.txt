@@ -1,0 +1,14 @@
+@TechReport{CDPV03b,
+author = {Caron, Eddy and Desprez, Frédéric and Petit, Franck and
+Villain, Vincent},
+title = {{A Hierarchical Resource Reservation Algorithm for Network
+Enabled Servers}},
+institution = {Laboratoire de l'Informatique du Parallélisme (LIP)},
+year = 2003,
+number = {RR2003-03},
+month = {January},
+note = {Also available as INRIA Research Report RR-4701},
+postscript =
+"ftp://ftp.ens-lyon.fr/pub/LIP/Rapports/RR/RR2003/RR2003-03.ps.gz",
+KEYWORDS ={Metacomputing, DIET, Scheduling}
+}

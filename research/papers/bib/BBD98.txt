@@ -1,0 +1,12 @@
+@INPROCEEDINGS{BBD+98,
+  author = {Barberet, C. and Brunie, L. and Desprez, F. and Lebourgeois, G. and Robert, Y. and Ubéda, S. and Van Heumen, K.},
+  title = {{Technology Transfer within the ProHPC TTN at ENS Lyon}},
+  booktitle = {High-Performance Computing and Networking},
+  year = {1998},
+  editor = {P. Sloot, M. Bubak and B. Hertzberger},
+  series = {LNCS 1401},
+  pages = {3-12},
+  publisher = {Springer Verlag},
+  keyword = {application},
+}
+

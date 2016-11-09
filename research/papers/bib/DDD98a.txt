@@ -1,0 +1,11 @@
+@TechReport{DDD+98a,
+  author = 	 "Desprez, F. and Domas, S. and Dongarra, J. and Petitet, A. and Randriamaro, C. and Yves Robert",
+  title = 	 "{More on Scheduling Block-Cyclic Array Redistribution}",
+  institution =  "INRIA",
+  year = 	 "1998",
+  month =        OCT,
+  number =	 "35-24",
+  note =         "Proceedings of LCR'98, LNCS, Springer Verlag and also LIP ENS Lyon Tech. Rep. 98-17",
+  url =          "http://www.inria.fr/RRRT/RR-3524.html",
+        keyword            = {communication, redistribution}
+}

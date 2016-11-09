@@ -1,0 +1,8 @@
+@INPROCEEDINGS{DS01b,
+  AUTHOR = {Desprez, F. and Suter, F.},
+  TITLE = "{Produit de matrices, Strassen et parallélisme mixte}",
+  BOOKTITLE = "Actes des 13e Rencontres Francophones du Parallélisme (RenPar'01)",
+  year = {2001},
+  address = {La Villette, France},
+  keyword = {mixed parallelism, parallel linear algebra}
+}

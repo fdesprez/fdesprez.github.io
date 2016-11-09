@@ -1,0 +1,9 @@
+@article{DDMR96,
+	Author = {Darte, A. and Desprez, F. and Mignot, J.C. and Robert, Y.},
+	Journal = {Journal of the Brazilian Computer Society},
+	Keyword = {HPF, environment, automatic parallelization},
+	Number = {2},
+	Pages = {5-15},
+	Title = {{TransTool: A Restructuring Tool for the Parallelization of Applications Using High Performance Fortran}},
+	Volume = {3},
+	Year = {1996}}

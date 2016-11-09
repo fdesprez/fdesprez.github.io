@@ -1,0 +1,8 @@
+@TECHREPORT{DFT93a,
+        AUTHOR             = {Desprez, F. and Ferreira, A. and Tourancheau, B.},
+        INSTITUTION        = {The University of Tennessee - Knoxville USA},
+        NUMBER             = {CS-93-209},
+        TITLE              = "{Efficient Communication Operations in Reconfigurable Parallel Computers}",
+        YEAR               = {1993},
+        keyword            = {communication, reconfiguration}
+}

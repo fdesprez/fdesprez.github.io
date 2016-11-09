@@ -1,0 +1,10 @@
+@InProceedings{CDDV04,
+author = {Caron, E. and Desprez, F. and Del-Fabbro, B. and Vernois, A.},
+title = {Gestion de données dans les NES},
+booktitle = {DistRibUtion de Données à grande Echelle. DRUIDE 2004},
+year = {2004},
+address = {Domaine du Port-aux-Rocs, Le Croisic. France},
+month = MAY,
+organization = {IRISA},
+}
+

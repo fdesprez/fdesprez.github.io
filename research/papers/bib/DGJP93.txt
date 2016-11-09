@@ -1,0 +1,11 @@
+@ARTICLE{DGJP93,
+        AUTHOR             = {Desprez, F. and Gavoille, C. and Jargot, B. and Pourzandi, M.},
+        INSTITUTION        = {LIP-ENS Lyon},
+        JOURNAL            = {La Lettre du Transputer et des Calculateurs Parallèles},
+        MONTH              = oct,
+        PAGES              = {11-35},
+        TITLE              = "{Tests des Performances des Communications de la Machine VOLVOX IS-860}",
+        VOLUME             = {19},
+        YEAR               = {1993},
+        keyword            = {architecture, communication, performance evaluation}
+}

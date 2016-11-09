@@ -1,0 +1,8 @@
+@INPROCEEDINGS{DG93,
+  author = {Desprez, F. and Garbey, M.},
+  title = {{Parallel Computing of a Combustion Front}},
+  booktitle = {Parallel CFD'93 - Implementations and Results Using Parallel Computers},
+  year = {1993},
+  publisher = {Elsevier Science Publishers B.V.},
+  keyword = {application, communication overlap},
+}

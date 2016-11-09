@@ -1,0 +1,12 @@
+@INPROCEEDINGS{DT91a,
+  author = {Desprez, F. and Tourancheau, B.},
+  title = {{Reconfiguration versus Static Network in Basic Scientific Routines}},
+  booktitle = {Workshop on Parallel and Distributed Processing WP\&DP 91},
+  year = {1991},
+  editor = {Boianov, K.},
+  address = {Sophia, Bulgarie},
+  publisher = {Elsevier Science Publishers B.V. (North-Holland)},
+  key = {DT91a},
+  keyword = {numerical libraries, communication, reconfiguration, parallel linear algebra},
+}
+

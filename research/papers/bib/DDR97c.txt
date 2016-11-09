@@ -1,0 +1,9 @@
+@article{DDR+97c,
+	Author = {Desprez, F. and Dongarra, J. and Rastello, F. and Robert, Y.},
+	Journal = {Journal of Information Science and Engineering (Special Issue on Compiler Techniques for High-Performance Computing)},
+	Keyword = {tiling},
+	Number = {1},
+	Pages = {167-190},
+	Title = {{Determining the Idle Time of a Tiling: New Results}},
+	Volume = {14},
+	Year = {1997}}

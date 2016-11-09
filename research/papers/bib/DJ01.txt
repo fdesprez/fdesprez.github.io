@@ -1,0 +1,9 @@
+@TechReport{DJ01,
+  author = 	 {Desprez, F. and Jeannot, E.},
+  title = 	 "{Adding Data Persistance and Redistribution to Netsolve}",
+  institution =  {LIP},
+  year = 	 2001,
+  type =	 {Research Report},
+  number =	 {RR2001-39},
+  address =	 {ENS Lyon}
+}

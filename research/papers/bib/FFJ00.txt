@@ -1,0 +1,10 @@
+@INPROCEEDINGS{FFJ+00,
+  author = {Desprez, F. and Fleury, E. and Jeannot, E. and Nicod, J.-M. and Suter, F.},
+  title = {{Computational Servers in a Metacomputing Environment}},
+  booktitle = {Parallel Matrix Algorithms and Applications},
+  year = {2000},
+  address = {Neuchâtel, Switzerland},
+  month = AUG,
+  organization = {SIAM},
+  keyword = {Scilab, grid computing, parallel linear algebra, Network Enabled Servers},
+}

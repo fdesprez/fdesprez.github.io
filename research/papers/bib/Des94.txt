@@ -1,0 +1,11 @@
+@PHDTHESIS{Des94a,
+        AUTHOR             = {Desprez, F.},
+        KEY                = {Des94a},
+        MONTH              = jan,
+        NOTE               = {LIP ENS-Lyon},
+        SCHOOL             = {Institut National Polytechnique de Grenoble},
+        TITLE              = {Procédures de base pour le calcul scientifique sur machines parallèles à mémoire distribuée},
+        YEAR               = {1994},
+        NOTE               = {En français},
+        keyword            = {parallel linear algebra, reconfiguration, macro-pipelining, application, communication overlap}
+}

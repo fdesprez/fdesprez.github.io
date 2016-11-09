@@ -1,0 +1,10 @@
+@MASTERSTHESIS{Des90,
+        AUTHOR             = {Desprez, F.},
+        KEY                = {Des90},
+        MONTH              = JUN,
+        NOTE               = {Laboratoire LIP},
+        SCHOOL             = {Ecole normale supérieure de Lyon},
+        TITLE              = "{Algèbre linéaire sur TNode}",
+        YEAR               = {1990},
+        keyword            = {parallel linear algebra, reconfiguration}
+}

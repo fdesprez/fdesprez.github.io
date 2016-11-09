@@ -1,0 +1,12 @@
+@ARTICLE{CD94b,
+        AUTHOR             = {Cosnard, M. and Desprez, F.},
+	key                = {CD94b},
+        JOURNAL            = {Calculateurs Parallèles},
+        TITLE              = "{Quelques Architectures de Nouvelles Machines}",
+        YEAR               = {1994},
+        VOLUME             = {21},
+        PAGES              = {29-58},
+        MONTH              = mar,
+        keyword            = {architecture}
+}
+

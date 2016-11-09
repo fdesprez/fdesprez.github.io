@@ -1,0 +1,7 @@
+@inproceedings{LEGO_Ocean08,
+	Title = {Ocean-Atmosphere Modelization over the Grid},
+	Author = {Caniou, Yves and Caron, Eddy and Charrier, Ghislain and Chis, Andr{\'e}ea and Desprez, Fr{\'e}d{\'e}ric and Maisonnave, Eric},
+	Booktitle = {The 37th International Conference on Parallel Processing (ICPP 2008)},
+	Keywords = {LEGO, DIET},
+	Note = {To appear},
+	Year = {2008}}

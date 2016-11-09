@@ -1,0 +1,7 @@
+@INPROCEEDINGS{DT91c,
+        AUTHOR             = {Desprez, F. and Tourancheau, B.},
+        BOOKTITLE          = {EDMCC2 Munich},
+        TITLE              = "{Matrix Multiplication and Matrix Transpose: Fixed Topology vs. Switching Network (poster)}",
+        YEAR               = {1991},
+        keyword            = {numerical libraries, parallel linear algebra, reconfiguration}
+}

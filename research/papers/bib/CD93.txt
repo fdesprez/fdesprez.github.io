@@ -1,0 +1,11 @@
+@INPROCEEDINGS{CD93,
+  author = {Calvin, Christophe and Desprez, F.},
+  title = {{Minimizing Communication Overhead Using Pipelining for Multi-Dimensional FFT on Distributed Memory Machines}},
+  booktitle = {Parallel Computing'93},
+  year = {1993},
+  editor = {Evans, D.J. and Joubert, J.R. and Liddell, H. and Trystram, D.},
+  pages = {65-72},
+  publisher = {Elsevier Science Publishers B.V. (North-Holland)},
+  key = {CD93},
+  keyword = {macro-pipelining, FFT, data distribution},
+}

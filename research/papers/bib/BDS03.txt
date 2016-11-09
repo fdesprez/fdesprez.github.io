@@ -1,0 +1,11 @@
+@INPROCEEDINGS{BDS03,
+  author = {Boudet, V. and Desprez, F. and Suter, F.},
+  title = {{One-Step Algorithm for Mixed Data and Task Parallel Scheduling Without Data Replication}},
+  booktitle = {Proceedings of the 17th International Parallel and Distributed Processing Symposium (IPDPS'03)},
+  year = {2003},
+  address = {Nice - France},
+  month = APR,
+  publisher = {IEEE Computer Society},
+  keywords = {Mixed Parallelism, Scheduling},
+  pdf		= {http://dlib.computer.org/conferen/ipdps/1926/pdf/19260041b.pdf}
+}

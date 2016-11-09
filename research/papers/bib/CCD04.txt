@@ -1,0 +1,10 @@
+@INPROCEEDINGS{CCD04,
+  author = {Caron, Eddy and Chouhan, Pushpinder-Kaur and Desprez, Frederic},
+  title = {Deadline scheduling with priority for client-server systems on the Grid},
+  booktitle = {{Grid Computing 2004}. IEEE International Conference On Grid Computing. Super Computing 2004},
+  year = {2004},
+  editor = {Rajkumar Buyya},
+  pages = {410-414},
+  address = {Pittsburgh, Pennsylvania},
+  month = oct,
+}

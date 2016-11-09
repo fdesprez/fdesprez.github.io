@@ -1,0 +1,11 @@
+@InProceedings{BCD96,
+  author = 	 "Brandes, T. and Chaumette, S. and Desprez, F.",
+  title = 	 "{TransTool: A Tool for Porting Scientific Applications on Distributed Memory Machines}",
+  editor =	 "J. Chassin de Kergommaux and D. Trystram",
+  pages =	 "175-178",
+  booktitle =	 "2nd European School of Computer Science",
+  year =	 1996,
+  month =	 "April",
+        keyword            = {environment, HPF}
+}
+

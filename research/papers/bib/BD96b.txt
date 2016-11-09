@@ -1,0 +1,13 @@
+@INPROCEEDINGS{BD96b,
+  author = {Brandes, T. and Desprez, F.},
+  title = {{Pipelining Data Parallel Computations in an HPF Compiler}},
+  booktitle = {Sixth Workshop on Compilers for Parallel Computers},
+  year = {1996},
+  editor = {M. Gerndt},
+  volume = {21},
+  pages = {73-89},
+  address = {Aachen, Germany},
+  month = DEC,
+  publisher = {Forschungszentrum Jülich},
+  keyword = {macro-pipelining, HPF},
+}

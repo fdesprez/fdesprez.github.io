@@ -1,0 +1,8 @@
+@proceedings{FRM01,
+	Address = {Valence, Spain},
+	Editor = {Desprez, F. and Fleury, E. and M{\'e}haut, J.-F.},
+	Keyword = {grid computing},
+	Month = {AUG},
+	Organization = {IEEE Computer Society},
+	Title = {Workshop on Metacomputing and Applications (MSA'2001)},
+	Year = 2001}

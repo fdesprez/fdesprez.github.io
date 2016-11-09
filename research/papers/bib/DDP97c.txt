@@ -1,0 +1,10 @@
+@TechReport{DDP+97c,
+  author = 	 "Desprez, F. and Dongarra, J. and Petitet, A. and Randriamaro, C. and Robert, Y.",
+  title = 	 "{Scheduling Block-Cyclic Array Redistribution}",
+  institution =  "INRIA",
+  year = 	 "1997",
+  month =        "February",
+  number =	 "RR-3117",
+  note =         {also UT CS Dept. Tech. Rep. CS-97-349, LAPACK Working note \# 120 and CRPC-TR97714-S},
+        keyword            = {communication, redistribution}
+}

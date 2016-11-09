@@ -1,0 +1,9 @@
+@TECHREPORT{DDT94,
+        AUTHOR             = {Desprez, F. and Dongarra, J. and Tourancheau, B.},
+        INSTITUTION        = {The University of Tennessee - Knoxville USA},
+        NUMBER             = {LAPACK Working Note 67},
+        KEY                = {DDT94},
+        TITLE              = "{Performance Complexity of LU Factorization with Efficient Pipelining and Overlap on a Multiprocessor}",
+        YEAR               = {1994},
+        keyword            = {macro-pipelining, parallel linear algebra, communication overlap}
+}

@@ -1,0 +1,8 @@
+@article{CDDJN06,
+	Author = {Caron, Eddy and Del-Fabbro, Bruno and Desprez, Frédéric and Jeannot, Emmanuel and Nicod, Jean-Marc},
+	Journal = {Scientific Programming Journal},
+	Number = {4},
+	Pages = {333-354},
+	Title = {Managing Data Persistence in Network Enabled Servers},
+	Volume = {13},
+	Year = {2005}}

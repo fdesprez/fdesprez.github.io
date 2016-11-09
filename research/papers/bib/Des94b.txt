@@ -1,0 +1,10 @@
+@INPROCEEDINGS{Des94b,
+  author = {Desprez, F.},
+  title = {{A Library for Coarse Grain Macro-Pipelining in Distributed Memory Architectures}},
+  booktitle = {IFIP 10.3 Conference on Programming Environments for Massively Parallel Distributed Systems},
+  year = {1994},
+  pages = {365-371},
+  publisher = {Birkhaeuser Verlag AG, Basel, Switzerland},
+  key = {Des94b},
+  keyword = {macro-pipelining},
+}

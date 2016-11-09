@@ -1,0 +1,11 @@
+@article{DT94a,
+	Author = {Desprez, F. and Tourancheau, B.},
+	Journal = {Future Generation Computer Systems},
+	Key = {DT94a},
+	Keyword = {macro-pipelining},
+	Number = {2\{\&}3},
+	Pages = {279-284},
+	Publisher = {Elsevier Science Publishers B.V.},
+	Title = {{LOCCS: Low Overhead Communication and Computation Subroutines}},
+	Volume = {10},
+	Year = {1994}}

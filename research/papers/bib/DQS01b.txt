@@ -1,0 +1,12 @@
+@INPROCEEDINGS{DQS01b,
+  author = {Desprez, F. and Quinson, M. and Suter, F.},
+  title = {{Dynamic Performance Modeling for Network Enabled Solvers in a Metacomputing Environment}},
+  booktitle = {International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA 2001)},
+  year = {2001},
+ editor	= {H.R. Arabnia},
+  volume	= {III},
+  address	= {Las Vegas},
+ publisher	= {CSREA Press},
+  note		= {ISBN: 1-892512-69-6},
+   keyword = {Grid computing, performance evaluation, Network Enabled Servers}
+}

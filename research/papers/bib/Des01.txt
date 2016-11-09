@@ -1,0 +1,13 @@
+@PHDTHESIS{Des01,
+        AUTHOR             = {Desprez, F.},
+        KEY                = {Des01},
+        MONTH              = jul,
+        NOTE               = {LIP ENS-Lyon},
+        SCHOOL             = {Université Claude Bernard de Lyon 1},
+        TITLE              = "{Calcul numérique: des bibliothèques aux environnements de metacomputing}",
+        YEAR               = {2001},
+  type =	 {Habilitation à diriger des recherches, en français},
+        keyword            = {parallel linear algebra, grid computing, Scilab, redistribution, communication overlap},
+        pdf                = {http://www.ens-lyon.fr/~desprez/research/habilitation/habilit.pdf}
+}
+

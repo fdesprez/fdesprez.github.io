@@ -1,0 +1,10 @@
+@INPROCEEDINGS{DDP+98c,
+  author = {Desprez, F. and Dongarra, J. and Petitet, A. and Randriamaro, C. and Robert, Y.},
+  title = {{Scheduling Block-Cyclic Array Redistribution}},
+  booktitle = {Parallel Computing: Fundamentals, Applications and New Directions},
+  year = {1998},
+  editor = {D'Hollander, E.H. and Joubert, G.R. and Peters, F.J. and Trottenberg, U.},
+  pages = {227-234},
+  publisher = {North Holland},
+  keyword = {redistribution, parallel linear algebra},
+}

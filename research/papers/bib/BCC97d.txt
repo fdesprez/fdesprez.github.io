@@ -1,0 +1,9 @@
+@article{BCC+97d,
+	Author = {Brandes, T. and Chaumette, S. and Counilh, M.-C. and Darte, A. and Mignot, J.C. and Desprez, F. and Roman, J.},
+	Journal = {Parallel Computing},
+	Keyword = {HPF, environment},
+	Number = {1-2},
+	Pages = {89-105},
+	Title = {{HPFIT: A Set of Integrated Tools for the Parallelization of Applications Using High Performance Fortran: Part II: Data Structures Visualization and HPF Support for Irregular Data Structures with Hierarchical Scheme}},
+	Volume = {23},
+	Year = {1997}}

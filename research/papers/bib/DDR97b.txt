@@ -1,0 +1,11 @@
+@INPROCEEDINGS{DDR+97b,
+  author = {Desprez, F. and Dongarra, J. and Rastello, F. and Robert, Y.},
+  title = {{Determining the Idle Time of a Tiling: New Results}},
+  booktitle = {Parallel Architectures and Compilation Techniques (PACT'97)},
+  year = {1997},
+  pages = {307-317},
+  address = {San Francisco},
+  month = NOV,
+  publisher = {IEEE Computer Society Press},
+  keyword = {tiling},
+}

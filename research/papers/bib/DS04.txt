@@ -1,0 +1,10 @@
+@article{DS04,
+	Author = {Fr{\'e}d{\'e}ric Desprez and Fr{\'e}d{\'e}ric Suter},
+	Journal = {Concurrency \{\&} Computation, Practice \{\&} Experience},
+	Note = {Also available as INRIA Research Report RR-4482 at \url{ftp://ftp.inria.fr/INRIA/publication/publi-ps-gz/RR/RR-4482.ps.gz}},
+  number = 8,
+  pages = {771-797},
+  month = JUL,
+	Title = {{Impact of Mixed-Parallelism on Parallel Implementations of Strassen and Winograd Matrix Multiplication Algorithms}},
+	Volume = {16},
+	Year = {2004}}

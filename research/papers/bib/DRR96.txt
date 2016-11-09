@@ -1,0 +1,13 @@
+@INPROCEEDINGS{DRR96,
+  author = {F. Desprez and P. Ramet and J. Roman},
+  title = {{Optimal Grain Size Computation for Pipelined Algorithms}},
+  booktitle = {Europar'96 Parallel Processing},
+  year = {1996},
+  volume = {1123},
+  series = {Lecture Notes in Computer Science},
+  pages = {165-172},
+  month = AUG,
+  publisher = {Springer Verlag},
+  keyword = {macro-pipelining, communication overlap},
+}
+

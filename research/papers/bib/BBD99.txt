@@ -1,0 +1,8 @@
+@article{BBD+99,
+	Author = {Barberet, C. and Brunie, L. and Desprez, F. and Lebourgeois, G. and Namyst, R. and Robert, Y. and Ub\'eda, S. and Van Heumen, K.},
+	Journal = {Future Generation Computer Systems},
+	Keyword = {application},
+	Pages = {309-321},
+	Title = {{Technology Transfer within the ProHPC TTN at ENS Lyon}},
+	Volume = {15},
+	Year = {1999}}

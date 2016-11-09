@@ -1,0 +1,12 @@
+@article{CCDS08,
+	Author = {Caron, Eddy and Chis, Andr{\'e}ea and Desprez, Fr{\'e}d{\'e}ric and Su, Alan},
+	Journal = {Future Generation Computer Systems},
+	Keywords = {Scheduling, DIET, LEGO},
+	Month = jan,
+	Number = 1,
+	Pages = {46-57},
+	Read = {Oui},
+	Title = {Design of plug-in schedulers for a GridRPC environment},
+	Volume = 24,
+	Year = {2008}
+}

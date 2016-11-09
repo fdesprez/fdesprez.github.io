@@ -1,0 +1,10 @@
+@INPROCEEDINGS{DS01a,
+  author = {Desprez, F. and Suter, F.},
+  title = {{Mixed Parallel Implementations of the Top Level of Strassen and Winograd Matrix Multiplication Algorithms}},
+  booktitle = {In proceedings of the 15th International Parallel and Distributed Processing Symposium (IPDPS'01)},
+  year = {2001},
+  address = {San Francisco},
+  month = APR,
+  keyword = {parallel linear algebra, mixed parallelism},
+}
+
